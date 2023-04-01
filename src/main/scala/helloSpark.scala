@@ -1,4 +1,4 @@
-object hello
+object helloSpark
 {
   def main(args: Array[String])
   {
